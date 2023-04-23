@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: CC0-1.0
 # SPDX-FileCopyrightText: 2019-2023 The Foundation for Public Code <info@publiccode.net>, https://standard.publiccode.net/AUTHORS
 ---
-# Authors
+# Skapare
 
 * Alba Roza, [The Foundation for Public Code](https://publiccode.net/)
 * Arnout Engelen
@@ -22,16 +22,16 @@
 * Jan Ainali, The Foundation for Public Code
 * Johan Groenen, Code For NL
 * Marcus Klaas de Vries
-* Mark van der Net, [Gemeente Amsterdam](https://www.amsterdam.nl/en/)
-* Martijn de Waal, [Amsterdam University of Applied Sciences (AUAS)](https://www.amsterdamuas.com/), Faculty of Digital Media and Creative Industries, Lectorate of Play & Civic Media
+* Mark van der Net, [Amsterdams kommun](https://www.amsterdam.nl/en/)
+* Martijn de Waal, [Amsterdam University of Applied Sciences (AUAS)](https://www.amsterdamuas.com/), Fakulteten för Digital Media och Kreativa Näringar, Lektoratet för Lek & Medborgerlig Media
 * Matti Schneider
 * Mauko Quiroga
-* Maurice Hendriks, Gemeente Amsterdam
-* Maurits van der Schee, Gemeente Amsterdam
+* Maurice Hendriks, Amsterdams kommun
+* Maurits van der Schee, Amsterdams kommunn
 * Mirjam van Tiel, The Foundation for Public Code
 * Ngô Ngọc Đức Huy
 * Paul Keller
 * Petteri Kivimäki, [Nordic Institute for Interoperability Solutions (NIIS)](https://niis.org)
 * Sky Bristol
-* Tamas Erkelens, Gemeente Amsterdam
+* Tamas Erkelens, Amsterdams kommun
 * Timo Slinger
