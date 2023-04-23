@@ -20,7 +20,7 @@ Det omfattar programvara som är skapat för att fungera med och som offentlig i
 
 Det finns massor med anledningar till varför offentlig kod är relevant just nu.
 
-### Software code == legal code
+### Programvarukod == juridisk kod
 Mjukvara är offentlig infrastruktur
 
 Nu på 2000-talet betraktas programvara som vital för den offentliga infrastrukturen.
@@ -35,53 +35,64 @@ Med andra ord, Programvarukod har i ökande takt närmat sig juridisk kod.
 Av den anledningen bör mjukvara betraktas som subjekt för demokratisk övervakning.
 
 ### Traditional public software procurement
-
-Nuvarande metoder för produktion av öppen kod har inte stöttat genomförande av offentliga tjänster väl.
-
-In the last decade, public organizations that purchased complete software solutions have sometimes been surprised to discover that they:
+### Traditionell offentlig upphandling av programvara
+Nuvarande metoder för produktion av offentlig kod har inte stöttat genomförandet av offentliga tjänster väl.
 
 Senaste årtiondet har offentliga organisationer som köpt kompletta mjukvarulösningar blivit förvånade när dom upptäckt att dom:
 
-* inte kan ändra mjukvaran för att reflektera ändrade policyer eller nyttja ny teknology
+* inte kan ändra mjukvaran för att reflektera ändrade policyer eller nyttja ny teknologi
 * inte har tillgång till sin data då den är inlåst i proprietära system.
 * Fortsatt behöva betala ökande licensavgifter
 
-### Technological sovereignty and democratic accountability
 ### Teknologisk suveränitet och demokratiskt ansvar
 
-Public institutions, civil servants and residents deserve better.
 Offentliga institutioner, offentliga tjänstepersoner och invånare förjänar bättre.
 
-We believe the software that runs our society can no longer be a black box, controlled by outside companies that keep the underlying logic on which their software operates hidden in proprietary codebases.
 Vi anser att mjukvaran som samhället bygger på inte längre kan vara en svart låda kontrollerad av utomstående företag som håller den bakomliggande logiken gömd bakom proprietära kodbaser.
-Instead, governments and the people they serve need technological sovereignty.
 Istället så behöver staten och dess folk teknologisk suveränitet.
-This allows them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws.
-Detta möjliggör för dem att fastställa och kontrollera hur offentlig kod fungerar, på samma sätt som policyer fastställs, kontrolleras och formuleras i lagar.
-Citizens and civil society actors need this software to be transparent and accountable.
+Detta möjliggör för dom att fastställa och kontrollera hur offentlig kod fungerar, på samma sätt som policyer fastställs, kontrolleras och formuleras i lagar.
 Medborgare och aktörer i civilsamhället behöver att denna mjukvara är tillförlitlig och transparent.
 
-The design of software as essential civic infrastructure should honor digital citizens’ rights.
 Designen av mjukvara som kritisk infrastruktur bör respektera medborgares rättigheter.
 
 ### Designing truly public software
+### Design av äkta offentlig programvara
 
+Offentlig kod är kärnan i moderna offentliga institutioner, formar arbetet för offentliga tjänstepersoner samt påverkar livet för nästan alla invånare.
 Public code is at the core of modern public institutions, shapes the work of civil servants and affects the lives of almost all residents.
 
+Offentlig programvara skall därför vara:
 Public software must therefore be:
+
+* transparant
+* ansvarig
+* förståelig för dess intressenter
 
 * transparent
 * accountable
 * understandable for its constituents
 
+Den måste spegla värdena som samhället tjänar, till exempel genom att vara inkluderande och icke-diskriminerande.
 It must reflect the values of the society it serves, for example by being inclusive and non-discriminatory.
 
+De flesta proprietära programvaror som för tillfället används av offentliga organisationer möter inte dessa krav.
+Det gör offentlig kod.
 Most proprietary software systems currently used by public organizations do not meet these requirements.
 Public code does.
 
+### Offentliga kodens värden
 ### Values of public code
 
+Vi anser att offentlig kod har följande kärnvärden:
 We consider public code to have these core values:
+
+* inkluderande
+* användbar
+* öppen
+* läsbar
+* ansvarig
+* tillgänglig
+* hållbar
 
 * Inclusive
 * Usable
