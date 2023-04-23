@@ -32,28 +32,37 @@ Programvara utför nu policyer som har kodifierats till juridisk kod genom demok
 Båda kodformaten utgör villkor för att allmänheten ska fungera enligt demokratiska värden: det sistnämnda utfört av människor och det förstnämnda av maskiner.
 Med andra ord, Programvarukod har i ökande takt närmat sig juridisk kod.
 
-Software should therefore be subject to the principles of democratic governance.
+Av den anledningen bör mjukvara betraktas som subjekt för demokratisk övervakning.
 
 ### Traditional public software procurement
 
-Current public software production methods have not served public service delivery very well.
+Nuvarande metoder för produktion av öppen kod har inte stöttat genomförande av offentliga tjänster väl.
 
 In the last decade, public organizations that purchased complete software solutions have sometimes been surprised to discover that they:
 
-* can’t change their software to reflect changing policy or take advantage of new technology
-* don’t have access to their data as it's locked into proprietary systems
-* are asked to pay ever increasing license fees
+Senaste årtiondet har offentliga organisationer som köpt kompletta mjukvarulösningar blivit förvånade när dom upptäckt att dom:
+
+* inte kan ändra mjukvaran för att reflektera ändrade policyer eller nyttja ny teknology
+* inte har tillgång till sin data då den är inlåst i proprietära system.
+* Fortsatt behöva betala ökande licensavgifter
 
 ### Technological sovereignty and democratic accountability
+### Teknologisk suveränitet och demokratiskt ansvar
 
 Public institutions, civil servants and residents deserve better.
+Offentliga institutioner, offentliga tjänstepersoner och invånare förjänar bättre.
 
 We believe the software that runs our society can no longer be a black box, controlled by outside companies that keep the underlying logic on which their software operates hidden in proprietary codebases.
+Vi anser att mjukvaran som samhället bygger på inte längre kan vara en svart låda kontrollerad av utomstående företag som håller den bakomliggande logiken gömd bakom proprietära kodbaser.
 Instead, governments and the people they serve need technological sovereignty.
+Istället så behöver staten och dess folk teknologisk suveränitet.
 This allows them to set and control the functioning of public software, just like they are able to set and control policy that is legally formulated in laws.
+Detta möjliggör för dem att fastställa och kontrollera hur offentlig kod fungerar, på samma sätt som policyer fastställs, kontrolleras och formuleras i lagar.
 Citizens and civil society actors need this software to be transparent and accountable.
+Medborgare och aktörer i civilsamhället behöver att denna mjukvara är tillförlitlig och transparent.
 
 The design of software as essential civic infrastructure should honor digital citizens’ rights.
+Designen av mjukvara som kritisk infrastruktur bör respektera medborgares rättigheter.
 
 ### Designing truly public software
 
