@@ -4,34 +4,33 @@
 ---
 # Introduktion
 
-Standard for Public Code är en samling med kriterier som är ett stöd för offentliga organisationer med att utveckla och underhålla mjukvara och policyer tillsammans.
-The Standard for Public Code is a set of criteria that support public organizations in developing and maintaining software and policy together.
+Standard for Public Code är en samling med kriterier som är ett stöd för offentliga organisationer med att utveckla och underhålla programvara och policyer tillsammans.
 
-Anyone developing public-purpose software or policy can use this standard to work towards higher quality public services that are more cost effective, with less risk and more control.
+Alla som utvecklar programvara eller policyer för offentligt syfte kan använda denna standard för att arbeta mot att få högre kvalitet på offentliga tjänster som också är mer kostnadseffektiv, med mindre risk och mer kontroll.
 
-This introduction introduces the term public code and explains why this is important.
+Denna introduktion introducerar termen offentlig kod och förklarar varför detta är viktigt.
 
-## Definition of public code
+## Definitionen av offentlig kod
 
-Public code is both computer source code (such as software and algorithms) and public policy executed in a public context, by humans or machines.
-It encompasses the software built to operate with and as public infrastructure, along with the arrangements for its production.
-Public code is explicitly distinct from regular software because it operates under fundamentally different circumstances and expectations.
+Offentlig kod är både källkod för programvara (såsom mjukvara och algoritmer) och offentliga policyer i en offentlig kontext, skriven av människor eller maskiner.
 
-## Reasons for public code
+Det omfattar programvara som är skapat för att fungera med och som offentlig infrastruktur, tillsammans med strukturen för produktionen. Offentlig kod skiljer sig explicit från vanlig programvara eftersom de arbetar under helt skiljda omständigheter och förväntningar. 
 
-There are many reasons for why public code is relevant now.
+## Anledningar till att använda offentlig kod
+
+Det finns massor med anledningar till varför offentlig kod är relevant just nu.
 
 ### Software code == legal code
+Mjukvara är offentlig infrastruktur
 
-Software is public infrastructure.
+Nu på 2000-talet betraktas programvara som vital för den offentliga infrastrukturen.
+Det är mer så att den styr formen för befintliga policyer men också skapande av nya policyer, till exempel där algoritmer bestämmer vilka områden som behöver extra stödinsatser eller polisarbete.
 
-In the 21st century, software can be considered vital public infrastructure.
-It is increasingly not just the expression of existing policy but the originator of new policy, for example where algorithms decide which districts need extra social services or policing.
+Mjukvarufunktioner, algoritmer och datainsamling har blivit nyckelelement i utförandet av offentliga policyer.
+Programvara utför nu policyer som har kodifierats till juridisk kod genom demokratiska processer.
 
-Software mechanics, algorithms and data collection have become key elements in the execution of public policies.
-Computer code now executes policies that have been codified in legal code through democratic procedures.
-Both forms of code set conditions for society to function according to democratically set public values, the latter executed by humans, the former by machines.
-In other words, software code has increasingly started to equal legal code.
+Båda kodformaten utgör villkor för att allmänheten ska fungera enligt demokratiska värden: det sistnämnda utfört av människor och det förstnämnda av maskiner.
+Med andra ord, Programvarukod har i ökande takt närmat sig juridisk kod.
 
 Software should therefore be subject to the principles of democratic governance.
 
