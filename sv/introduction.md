@@ -34,7 +34,6 @@ Med andra ord, Programvarukod har i ökande takt närmat sig juridisk kod.
 
 Av den anledningen bör mjukvara betraktas som subjekt för demokratisk övervakning.
 
-### Traditional public software procurement
 ### Traditionell offentlig upphandling av programvara
 Nuvarande metoder för produktion av offentlig kod har inte stöttat genomförandet av offentliga tjänster väl.
 
@@ -55,7 +54,6 @@ Medborgare och aktörer i civilsamhället behöver att denna mjukvara är tillf�
 
 Designen av mjukvara som kritisk infrastruktur bör respektera medborgares rättigheter.
 
-### Designing truly public software
 ### Design av äkta offentlig programvara
 
 Offentlig kod är kärnan i moderna offentliga institutioner, formar arbetet för offentliga tjänstepersoner samt påverkar livet för nästan alla invånare.
@@ -73,15 +71,11 @@ Public software must therefore be:
 * understandable for its constituents
 
 Den måste spegla värdena som samhället tjänar, till exempel genom att vara inkluderande och icke-diskriminerande.
-It must reflect the values of the society it serves, for example by being inclusive and non-discriminatory.
 
 De flesta proprietära programvaror som för tillfället används av offentliga organisationer möter inte dessa krav.
 Det gör offentlig kod.
-Most proprietary software systems currently used by public organizations do not meet these requirements.
-Public code does.
 
-### Offentliga kodens värden
-### Values of public code
+### Värdena med offentlig kod
 
 Vi anser att offentlig kod har följande kärnvärden:
 We consider public code to have these core values:
@@ -94,20 +88,17 @@ We consider public code to have these core values:
 * tillgänglig
 * hållbar
 
-* Inclusive
-* Usable
-* Open
-* Legible
-* Accountable
-* Accessible
-* Sustainable
-
+## Hur offentlig kod fungerar
 ## How public code works
 
+Offentlig kod är open source programvara avsedd för att uppfylla offentliga organisationers huvudsakliga roll i samhället.
 Public code is open source software meant for fulfilling the essential role of public organizations.
+Genom användning så kan andra förvaltningar bidra tillbaka till utvecklandet och underhållningen av programvaran.
 Through use, other administrations contribute back to the software, so that its development and maintenance become truly collaborative.
 
+Att vara öppen öppnar upp för många andra saker.
 Being open unlocks many other things.
+
 
 Local responsibility and democratic accountability are ensured when a public organization implements and maintains their own public code.
 By being open and with a broader contributor base, the software is more secure as it benefits from many eyes spotting potential flaws.
